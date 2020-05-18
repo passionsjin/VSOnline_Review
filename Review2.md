@@ -12,9 +12,9 @@ Visual Studio Online -> Visual Studio Codespace
 - 로그인 후 초기 화면  
 ![로그인 후 첫화면](img/(new)first_main.png)  
 
-### Main 페이지 설명
-- 사용중인 Azure Subscription에 Plan을 생성하면, Billing이 이루어진다.
-- 생성한 Plan에서 Codespace들을 생성할 수 있다.
+### Setting
+- Billing이 이루어질 Azure Subscription에 Plan을 생성한다.
+- 생성한 Plan에서 Codespace(프로젝트 단위)들을 생성할 수 있다.
 #### 1. Create new plan
 - 새로운 Plan 생성  
 ![Create new plan](img/(new)NewPlan.PNG)  
@@ -55,7 +55,7 @@ Live Share : 코드 협업 기능
 ![간단한 python 코드 실행](img/(new)Runpython.PNG)  
 
 ### Frontweb와 Portforward 
-- host에 어떻게 접근할까?
+- host 접근 방법
 ```
 좌측 메뉴 remote explorer > 좌측하단 Forwarded Ports 추가 > 실행시킬 웹서버 포트 입력
 > 생성된 메뉴를 통해 접속.
@@ -75,7 +75,7 @@ npm start
 ![run화면](img/node_run.PNG)  
 - Forwarded Ports 추가를 통해 웹서버 접속 확인.
 ### python Django
-- [sample project](https://github.com/mate365/python_web_example)
+- [> Sample APP (github)](https://github.com/mate365/python_web_example)
 - 버전 선택  
 ![python version select](img/python_venv_choose.PNG)  
 - `Python: Select Interpreter` 을 통해 버전을 선택한다.
