@@ -31,6 +31,7 @@
 ### Attention
 - 코드 편집중 attention 기능을 활성화하면, 참가자들에게 편집중인 코드 라인을 보여준다.  
 ![attention.png](img/review3/Items(7).png)  
+![attention.png](img/review3/attention.png)  
 ### Chat  
 ![chat.png](img/review3/chat.png)   
 ### Audio Call
