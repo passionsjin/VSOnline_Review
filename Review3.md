@@ -17,7 +17,10 @@
 ### 4.  Join (세션 참가)  
 ![session_join.png](img/review3/Items(3).png)  
   - 초대 url을 통해 web에서 실행하거나, app에서 url을 입력해서 참가 할 수있다.
-### 5.  Server Share
+### 5. Terminal Share
+![session_join.png](img/review3/share_terminal.png)
+  - Terminal을 공유하고 하나 혹은 다수의 터미널에서 작업이 가능하다.
+### 6.  Server Share
   - webserver와 같은 만들어진 서버를 Share 할수있다.  
 ![server_share1.png](img/review3/Items(4).png)  
 ![server_share2.png](img/review3/Items(5).png)  
